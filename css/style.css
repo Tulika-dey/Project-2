@@ -762,6 +762,12 @@ form{
     .parrot img{
 		display: none;
 	}
+	.lessons{
+		margin-top: 210px;
+	}
+	.dot img{
+		display: none;
+	}
 }
 
 
